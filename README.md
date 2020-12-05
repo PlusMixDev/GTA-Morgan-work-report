@@ -71,13 +71,13 @@ Daruma : ✅
 
 ❌ • เมนูกด H
 ```
-ข้อมูลส่วนตัว :white_check_mark:
+ข้อมูลส่วนตัว ✅
 จัดการตัวละคร ❌
-กระเป๋าเก็บไอเทม :white_check_mark:
-เรียกรถส่วนตัว [VIP] :white_check_mark: 
-เกี่ยวกับรถ :white_check_mark:
-GPS :white_check_mark:
-Donate :white_check_mark:
+กระเป๋าเก็บไอเทม ✅
+เรียกรถส่วนตัว [VIP] ✅
+เกี่ยวกับรถ ✅
+GPS ✅
+Donate ✅
 ```
 
 ```
