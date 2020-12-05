@@ -65,3 +65,6 @@ Daruma : ✅
 มือถือ
 ซิม
 ```
+
+:white_check_mark: • เมนูกด N
+``` กดแล้วมี Textdraw Start/Stop Lock/Unlock ขึ้นมา ```
