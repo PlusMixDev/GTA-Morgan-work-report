@@ -68,3 +68,16 @@ Daruma : ✅
 
 :white_check_mark: • เมนูกด N
 ``` กดแล้วมี Textdraw Start/Stop Lock/Unlock ขึ้นมา ```
+
+❌ • เมนูกด H
+```
+ข้อมูลส่วนตัว :white_check_mark:
+จัดการตัวละคร ❌
+กระเป๋าเก็บไอเทม :white_check_mark:
+เรียกรถส่วนตัว [VIP] :white_check_mark: 
+เกี่ยวกับรถ :white_check_mark:
+GPS :white_check_mark:
+Donate :white_check_mark:
+```
+
+```
